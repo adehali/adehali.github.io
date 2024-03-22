@@ -1,23 +1,4 @@
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2487.4">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px 'Times New Roman'; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: right; font: 16.0px 'Times New Roman'; -webkit-text-stroke: #000000}
-    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 16.0px 'Times New Roman'; -webkit-text-stroke: #000000}
-    p.p4 {margin: 0.0px 0.0px 0.0px 33.6px; text-indent: -33.6px; font: 16.0px 'Times New Roman'; -webkit-text-stroke: #000000}
-    span.s1 {font-kerning: none}
-    span.s2 {font: 11.1px 'Times New Roman'; font-kerning: none}
-    span.s3 {font: 21.3px 'Times New Roman'; font-kerning: none}
-    span.s4 {font: 16.0px Helvetica; font-kerning: none}
-    span.s5 {font: 9.3px 'Times New Roman'; font-kerning: none}
-    span.s6 {font: 14.7px 'Times New Roman'; font-kerning: none}
-    span.s7 {font: 18.7px 'Times New Roman'; font-kerning: none}
-  </style>
+
 </head>
 <body>
 <p class="p1"><span class="s1">  
