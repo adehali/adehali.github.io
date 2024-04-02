@@ -11,7 +11,7 @@
 
 <body style="background-color:lightblue;">
 <h2 style="text-align:center;">EDUCATION</h2>   
-<p style="font-size:21px;"> <pre>ST. CLOUD STATE UNIVERSITY, St. Cloud, Minnesota                    Graduation: May 2020</pre></p> 
+<p style="font-size:35px;"> <pre>ST. CLOUD STATE UNIVERSITY, St. Cloud, Minnesota                    Graduation: May 2020</pre></p> 
 
  
 <ul> 
