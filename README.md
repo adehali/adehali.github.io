@@ -24,7 +24,6 @@
 <li>GPA: 2.96</li>
 
 </body>
-
 </html>  
 
 
