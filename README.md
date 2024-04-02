@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <body style="background-color:powderblue;">
-<head>
+  <body style="background-color:lightblue;">
 
+<head>
 
 <h1 style="text-align:right;">ADEN ALI</h1> 
 
