@@ -1,9 +1,6 @@
 <!DOCTYPE html>
-
 <html>
   <body style="background-color:lightblue;">
-
-<head>
 
 <h1 style="text-align:right;">ADEN ALI</h1> 
 
@@ -27,8 +24,8 @@
 <li>GPA: 2.96</li>
 
 </body>
-</head> 
-</html> 
+
+</html>  
 
 
 
