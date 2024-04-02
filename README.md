@@ -1,5 +1,3 @@
-
-
 <html>
 <head>
 <h1 style="text-align:right;">ADEN ALI</h1> 
@@ -11,7 +9,7 @@
 
 <body style="background-color:lightblue;">
 <h2 style="text-align:center;">EDUCATION</h2>   
-<pre><p style="font-size:21px;"> ST. CLOUD STATE UNIVERSITY, St. Cloud, Minnesota                    Graduation: May 2020</pre></p> 
+<pre><p style="font-size:21px;"> ST. CLOUD STATE UNIVERSITY, St. Cloud, Minnesota       Graduation: May 2020</p></pre> 
 
  
 <ul> 
@@ -25,7 +23,7 @@
 </ul> 
 
 </body>
-</html> 
+</html>
 
 
 
