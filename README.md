@@ -2,7 +2,7 @@
 <html>
 <head>
   
-</head>
+
   <body style="background-color:lightblue;">
 
 <h1 style="text-align:right;">ADEN ALI</h1> 
@@ -28,8 +28,7 @@
 </ul> 
 
 </body>
-
-
+</head>
 </html>  
 
 
