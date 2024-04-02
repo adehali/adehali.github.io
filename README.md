@@ -1,4 +1,4 @@
-<!DOCTYPE html/>
+
 <html>
 <head>
 <h1 style="text-align:right;">ADEN ALI</h1> 
