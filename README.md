@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+
+
 <html>
   <body style="background-color:lightblue;">
 
@@ -24,6 +26,8 @@
 <li>GPA: 2.96</li>
 
 </body>
+
+
 </html>  
 
 
