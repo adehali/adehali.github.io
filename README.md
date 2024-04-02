@@ -5,9 +5,9 @@
 
 <h1 style="text-align:right;">ADEN ALI</h1> 
 
-<p style="text-align:right;"41 3rd Ave NE Saint Cloud, MN 56304</p>
-<pstyle="text-align:right;"612-423-1213 | adenali114@yahoo.com</p>
-<pstyle="text-align:right;"Linkedin.com/in/aden-ali-16487013b</p>
+<p style="text-align:right;">41 3rd Ave NE Saint Cloud, MN 56304</p>
+<pstyle="text-align:right;">612-423-1213 | adenali114@yahoo.com</p>
+<pstyle="text-align:right;">Linkedin.com/in/aden-ali-16487013b</p>
 <hr>
 
 <h2 style="text-align:center;">EDUCATION</h2> 
