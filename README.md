@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html> 
-<head> 
+<html>
+<head>
 <body style="background-color:powderblue;">
 
 <h1> ADEN  ALI</h1>
