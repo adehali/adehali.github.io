@@ -16,8 +16,7 @@
 
 <ul> 
 
-<li>Primary coursework: Application Program Development I (C#), Application Program Development II (Java), Systems Analysis & Design, Management Information Systems, Professional Management, Managerial Finance, and Marketing![image](https://github.com/adehali/adehali.github.io/assets/164467733/1ff47f8a-bbfd-4778-bc9a-dccc6b11d8ce)
-  </li>
+<li>Primary coursework: Application Program Development I (C#), Application Program Development II (Java), Systems Analysis & Design, Management Information Systems, Professional Management, Managerial Finance, and Marketing.</li>
 <li>GPA: 2.96</li>
 
 
