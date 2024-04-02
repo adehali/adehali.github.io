@@ -16,7 +16,7 @@
 
 <ul> 
 
-<li>Primary coursework: Application Program Development I (C#), Application Program Development II (Java), Systems Analysis & Design, Management Information Systems, Professional Management, Managerial Finance, and Marketing.</li>
+<li1>Primary coursework: Application Program Development I (C#), Application Program Development II (Java), Systems Analysis & Design, Management Information Systems, Professional Management, Managerial Finance, and Marketing.</li1>
 <li>GPA: 2.96</li>
 
 
