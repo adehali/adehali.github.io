@@ -13,7 +13,7 @@
 <h2 style="text-align:center;">EDUCATION</h2>   
 <p style="font-size:25px;"> ST. CLOUD STATE UNIVERSITY, St. Cloud, Minnesota </p>
 
- <pre>Information System              Graduation: May 2020</pre> 
+  <pre> <h3> Information System              Graduation: May 2020</h3></pre> 
   
   
 <ul>  
@@ -32,7 +32,7 @@
  
 <p style="font-size:25px;"> ST. CLOUD TECHNICAL AND COMMUNITY COLLEGE, St. Cloud, Minnesota </p>
 
- <pre><h2> Business Management              Graduation: May 2016</h2> </pre> 
+ <pre><h3> Business Management              Graduation: May 2016</h3> </pre> 
   
   
 <ul>  
@@ -64,7 +64,7 @@
   
   
 </body>
-</html> 
+</html>  
 
 
 
