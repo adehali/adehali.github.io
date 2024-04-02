@@ -13,7 +13,7 @@
 <h2 style="text-align:center;">EDUCATION</h2>   
 <p style="font-size:25px;"> ST. CLOUD STATE UNIVERSITY, St. Cloud, Minnesota </p>
 
- <pre><h2> Information System              Graduation: May 2020</h2> </pre> 
+ <pre>Information System              Graduation: May 2020</pre> 
   
   
 <ul>  
@@ -46,6 +46,26 @@
   <li>GPA: 3.0</li>
 
 </ul> 
+
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</body>
+</html> 
 
 
 
