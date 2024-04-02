@@ -24,6 +24,7 @@
     Systems Analysis & Design, Management Information Systems, 
     Professional Management, Managerial Finance, and Marketing.</li>
 <li>GPA: 2.96</li>
+</ul> 
 
 </body>
 
