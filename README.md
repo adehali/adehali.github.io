@@ -11,6 +11,7 @@
 <p>612-423-1213 | adenali114@yahoo.com</p>
 <p>Linkedin.com/in/aden-ali-16487013b</p>
 <h2>EDUCATION</h2> 
+<h4>ST. CLOUD STATE UNIVERSITY, St. Cloud, Minnesota</h4>
 
 
  
