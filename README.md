@@ -2,9 +2,6 @@
 
 <html>
 <head>
-  
-  
-<body style="background-color:lightblue;">
 <h1 style="text-align:right;">ADEN ALI</h1> 
 <p style="text-align:right;">41 3rd Ave NE Saint Cloud, MN 56304</p>
 <p style="text-align:right;">612-423-1213 | adenali114@yahoo.com</p>
@@ -12,7 +9,7 @@
 <hr>
 </head>
 
-
+<body style="background-color:lightblue;">
 <h2 style="text-align:center;">EDUCATION</h2>   
 <p style="font-size:25px;"> ST. CLOUD STATE UNIVERSITY, St. Cloud, Minnesota </p>
 
@@ -31,9 +28,8 @@
   
   
   
-  
-  
-  <body style="background-color:lightblue;">  
+ 
+ 
 <p style="font-size:25px;"> ST. CLOUD TECHNICAL AND COMMUNITY COLLEGE, St. Cloud, Minnesota </p>
 
  <pre><h2> Business Management              Graduation: May 2016</h2> </pre> 
