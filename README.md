@@ -14,7 +14,7 @@
 <hr>
 
 <h2>EDUCATION</h2> 
-<h4>ST. CLOUD STATE UNIVERSITY, St. Cloud, Minnesota          Graduation: May 2020</h4> 
+<p style="font-size:30px;">ST. CLOUD STATE UNIVERSITY, St. Cloud, Minnesota   Graduation: May 2020</p> 
 
 
 <ul> 
