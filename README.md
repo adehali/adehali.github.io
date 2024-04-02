@@ -6,7 +6,7 @@
 
 <body style="background-color:powderblue;">
 
-<h1> ADEN H ALI</h1>
+<h1> ADEN  ALI</h1>
 
 <p>41 3rd Ave NE Saint Cloud, MN 56304</p>
 <p>612-423-1213 | adenali114@yahoo.com</p>
