@@ -5,7 +5,7 @@
   
 </head>
 
-<body style="background-color:lightblue;">
+<body>
   
 <h1 style="text-align:right;">ADEN ALI</h1> 
 <p style="text-align:right;">41 3rd Ave NE Saint Cloud, MN 56304</p>
@@ -52,10 +52,6 @@
   
   
  
-  
-  
-  
-  
   
 </body>
 </html>  
