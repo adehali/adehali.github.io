@@ -3,7 +3,19 @@ body {
   background-color: lightblue;
 }
 
+
+
+h2, p {
+  line-height: 20px;
+  } 
+h2, p {
+  
+  margin-top: 15px;
+}
+
 hr {
   border: solid black 1px;
  
 }
+
+
