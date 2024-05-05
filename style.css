@@ -1,18 +1,46 @@
+
+.site-header  {
+
+background: #3f51b3;
+color: #fff;
+padding: 20px 5%;
+box-shadow: 0 1px 3px #999;
+  
+}
+
+
+
+.site-header  h1  {
+
+margin: 0;
+font-size: 25px;
+  
+}
+
+.site-header  a  {
+
+text-decoration: none;
+font-size: 25px;
+color: #fff;
+
+  
+}
+
+
+
 body {
   
   background-color: lightblue;
 }
 
-hr {
 
-border: solid black 1.5px;
-  
-}
 
-h2{
-  
-  background-color: DarkTurquoise;
-}
+
+
+
+
+
+
 
 
 
