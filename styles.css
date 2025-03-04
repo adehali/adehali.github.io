@@ -17,6 +17,27 @@ header  {
 }
 
 
+.section-title {
+  font-size: 1.8em;
+  margin-bottom: 10px;
+  text-align: center;
+  color: #500d5c;
+  text-shadow: #333;
+
+}
+
+.institution {
+  font-size: 1.2em;
+  margin: 8px 0;
+  padding: 8px;
+  background-color: #e0e0e0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color: #500d5c;
+  font-weight: bold;
+
+}
+
 main {
   
   background-color: rgb(221, 198, 198);
